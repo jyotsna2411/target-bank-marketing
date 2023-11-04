@@ -47,20 +47,11 @@ Numerical variable representing the interest rate the customer had on their prod
 ReferenceRate:
 
 Numerical variable representing the negotiated interest rate after considering competitive rates.
-## Usage:
-Clone the repository:
+## Usage
 
-bash
-Copy code
-git clone https://github.com/your_username/target-marketing-canadian-bank.git
-Explore the training and testing datasets, along with the Jupyter notebook for data analysis and model development.
-
-Install required packages:
-
-bash
-Copy code
-pip install -r requirements.txt
-Implement and run the machine learning model to predict customer responses.
+1. **Clone the repository:**
+   ```bash
+   https://github.com/jyotsna2411/semi-supervised-application.git
 
 ## Contribution Guidelines:
 Contributions to the project are welcome! Please follow the guidelines outlined in CONTRIBUTING.md.
