@@ -53,13 +53,7 @@ Numerical variable representing the negotiated interest rate after considering c
    ```bash
    https://github.com/jyotsna2411/target-bank-marketing.git
 
-## Contribution Guidelines:
-Contributions to the project are welcome! Please follow the guidelines outlined in CONTRIBUTING.md.
 
-## License:
-This project is licensed under the MIT License. Feel free to use, modify, and distribute as per the license terms.
-
-Feel free to explore and contribute to the project!
 
 
 
