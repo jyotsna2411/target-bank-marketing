@@ -51,5 +51,4 @@ Numerical variable representing the negotiated interest rate after considering c
 
 1. **Clone the repository:**
    ```bash
-   https://github.com/jyotsna2411/target-bank-marketing.git
-```
+   https://github.com/jyotsna2411/target-bank-marketing.git```
